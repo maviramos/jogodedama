@@ -1,7 +1,4 @@
-# coding: utf-8
-# Lucas de Medeiros Nunes Fernandes, 117110210
-# lucas.medeiros.fernandes@ccc.ufcg.edu.br
-# Miniprojeto 1, Damas
+
 
 import pygame
 from pygame.locals import *
